@@ -1,5 +1,7 @@
 ![👋 Hi, my name is Evans Ebo Turkson](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
 
+![](https://komarev.com/ghpvc/?username=eboturkson)
+
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
